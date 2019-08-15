@@ -8,7 +8,7 @@ The program uses the MovieLens 1 million dataset by [GroupLens](https://grouplen
 All the files are then loaded into pandas dataframes then parsed. The training data is a sparse matrix of type COO.
 
 ## Dependencies
--numpy
--sklearn (for one-hot encoding genres)
--lightFM
--scipy
+- numpy
+- sklearn (for one-hot encoding genres)
+- lightFM
+- scipy
